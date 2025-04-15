@@ -20,6 +20,10 @@ public class Calculator{
 
         System.out.println("Division = "+(n1/n2));
 
+        System.out.println("This is the master branch");
+
+        System.out.println("Modulo = "+(n1%n2));
+
         sc.close();
     }
 }
