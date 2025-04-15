@@ -24,6 +24,8 @@ public class Calculator{
 
         System.out.println("Modulo = "+(n1%n2));
 
+        System.out.println("New line added ");
+
         sc.close();
     }
 }
