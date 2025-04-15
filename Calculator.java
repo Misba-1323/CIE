@@ -26,7 +26,7 @@ public class Calculator{
 
         System.out.println("New line added ");
 
-        System.oput.println("One more line added from GitHub");
+        System.out.println("One more line added from GitHub");
 
         sc.close();
     }
